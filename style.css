@@ -22,7 +22,10 @@ body {
     font-size: 30px;
     cursor: pointer;
   }
-  
+  .menu-icon img{
+    width: 50px;
+    vertical-align: middle;
+  }
   .character {
     width: 40%;
     margin: 20px 0;
